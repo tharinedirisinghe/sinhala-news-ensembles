@@ -1,0 +1,25 @@
+features,question,comparison,metric,difference,CI low,CI high,real difference?
+Text only,Bagging vs boosting,Random Forest − XGBoost,ROC-AUC,0.0008647151886062021,-0.008992542484101659,0.010627516656788488,no (CI includes 0)
+Text only,Bagging vs boosting,Random Forest − XGBoost,PR-AUC,8.764792572701907e-05,-0.006851214767802152,0.006638464334037918,no (CI includes 0)
+Text only,What random features add,Random Forest − Bagging (decision trees),ROC-AUC,0.0016704300509752246,-0.004954283203177967,0.008489732146606107,no (CI includes 0)
+Text only,What random features add,Random Forest − Bagging (decision trees),PR-AUC,0.00171420006718348,-0.0031335634593076533,0.0063082796473491074,no (CI includes 0)
+Text only,Stacking vs best single model,Stacking − Logistic Regression (baseline),ROC-AUC,0.00719163252567856,0.0030121151068715326,0.011293276216643097,yes
+Text only,Stacking vs best single model,Stacking − Logistic Regression (baseline),PR-AUC,0.005589773660278241,0.0023957191990004374,0.008837330878861906,yes
+Text only,Learned vs simple combination,Stacking − Simple average,ROC-AUC,0.0008575070039528176,-0.0012969842256963487,0.0030630740698499304,no (CI includes 0)
+Text only,Learned vs simple combination,Stacking − Simple average,PR-AUC,-0.00027762478729731477,-0.0018046462165954152,0.0011481102792813944,no (CI includes 0)
+Source only,Bagging vs boosting,Random Forest − XGBoost,ROC-AUC,0.00019648977425568148,-0.001613453986711677,0.0019311750584852458,no (CI includes 0)
+Source only,Bagging vs boosting,Random Forest − XGBoost,PR-AUC,-6.28001526532529e-05,-0.0009655512487767471,0.0009051182285090049,no (CI includes 0)
+Source only,What random features add,Random Forest − Bagging (decision trees),ROC-AUC,-4.271516831577671e-06,-5.645508217824446e-05,5.5821318582952025e-05,no (CI includes 0)
+Source only,What random features add,Random Forest − Bagging (decision trees),PR-AUC,-2.8162096411543658e-06,-4.180013282539807e-05,3.555516271594449e-05,no (CI includes 0)
+Source only,Stacking vs best single model,Stacking − XGBoost,ROC-AUC,0.00028725950692809477,-0.0011447535681907844,0.0017204760001191144,no (CI includes 0)
+Source only,Stacking vs best single model,Stacking − XGBoost,PR-AUC,-0.001682150870587762,-0.004670526251261869,0.0010061499294586839,no (CI includes 0)
+Source only,Learned vs simple combination,Stacking − Simple average,ROC-AUC,0.0003940474277193129,-0.00034642514211830896,0.0011331635407233276,no (CI includes 0)
+Source only,Learned vs simple combination,Stacking − Simple average,PR-AUC,-0.0015669416552033244,-0.004603841328917469,0.0012497566681480274,no (CI includes 0)
+Text + Source,Bagging vs boosting,Random Forest − XGBoost,ROC-AUC,0.0027642053296783597,-0.006466525048348151,0.012098648327571512,no (CI includes 0)
+Text + Source,Bagging vs boosting,Random Forest − XGBoost,PR-AUC,0.00020740641389649372,-0.00672235189723919,0.0065988440015250305,no (CI includes 0)
+Text + Source,What random features add,Random Forest − Bagging (decision trees),ROC-AUC,0.001487288766818473,-0.004698105340542824,0.007994836697723185,no (CI includes 0)
+Text + Source,What random features add,Random Forest − Bagging (decision trees),PR-AUC,0.0012681704490997703,-0.003639508250023543,0.006717351337939642,no (CI includes 0)
+Text + Source,Stacking vs best single model,Stacking − Logistic Regression (baseline),ROC-AUC,0.006262043675191786,0.0018565878274856313,0.010781273778661941,yes
+Text + Source,Stacking vs best single model,Stacking − Logistic Regression (baseline),PR-AUC,0.004068102212350544,0.0008813815895299449,0.007557495940151903,yes
+Text + Source,Learned vs simple combination,Stacking − Simple average,ROC-AUC,0.0021069256772089373,-0.0003465766461972275,0.004417190642743951,no (CI includes 0)
+Text + Source,Learned vs simple combination,Stacking − Simple average,PR-AUC,-0.0005665317780443324,-0.0029799056575466054,0.0016978381411755993,no (CI includes 0)

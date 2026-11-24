@@ -1,0 +1,91 @@
+model,features,fold,seconds
+Bagging (decision trees),Text only,0,180.47065557900004
+Random Forest,Text only,0,12.126256378999983
+XGBoost,Text only,0,39.15178549700005
+Logistic Regression (baseline),Text only,0,5.334622348999972
+Simple average,Text only,0,56.612664225
+Stacking,Text only,0,177.60813408400003
+Bagging (decision trees),Text only,1,181.346391004
+Random Forest,Text only,1,11.80380748899995
+XGBoost,Text only,1,40.337571368
+Logistic Regression (baseline),Text only,1,4.694572318000041
+Simple average,Text only,1,56.83595117499999
+Stacking,Text only,1,180.31682500700003
+Bagging (decision trees),Text only,2,181.42835118100004
+Random Forest,Text only,2,12.382924888999923
+XGBoost,Text only,2,38.575413755
+Logistic Regression (baseline),Text only,2,4.433141182000099
+Simple average,Text only,2,55.39147982600002
+Stacking,Text only,2,174.3141668620001
+Bagging (decision trees),Text only,3,188.74497640200002
+Random Forest,Text only,3,12.783372127999883
+XGBoost,Text only,3,38.73978544900001
+Logistic Regression (baseline),Text only,3,6.040019240999982
+Simple average,Text only,3,57.563176817999874
+Stacking,Text only,3,174.23775753099994
+Bagging (decision trees),Text only,4,177.32599166199998
+Random Forest,Text only,4,11.813307455000086
+XGBoost,Text only,4,37.64267741000003
+Logistic Regression (baseline),Text only,4,4.6394887010001185
+Simple average,Text only,4,54.09547356600024
+Stacking,Text only,4,170.81741576700006
+Bagging (decision trees),Source only,0,1.010397944000033
+Random Forest,Source only,0,0.7053384420000839
+XGBoost,Source only,0,0.10343829400017057
+Logistic Regression (baseline),Source only,0,0.02004108700020879
+Simple average,Source only,0,0.8288178230004632
+Stacking,Source only,0,5.541947947000381
+Bagging (decision trees),Source only,1,1.036813617000007
+Random Forest,Source only,1,0.7425211310001032
+XGBoost,Source only,1,0.10549282900001344
+Logistic Regression (baseline),Source only,1,0.0124732290000793
+Simple average,Source only,1,0.8604871890001959
+Stacking,Source only,1,4.090531426000325
+Bagging (decision trees),Source only,2,0.9998772389999431
+Random Forest,Source only,2,0.7172719010000037
+XGBoost,Source only,2,0.1336188669999956
+Logistic Regression (baseline),Source only,2,0.013325540999858276
+Simple average,Source only,2,0.8642163089998576
+Stacking,Source only,2,5.275696093999841
+Bagging (decision trees),Source only,3,1.193675315000064
+Random Forest,Source only,3,0.7235212079999656
+XGBoost,Source only,3,0.11602636399993571
+Logistic Regression (baseline),Source only,3,0.021826226000030147
+Simple average,Source only,3,0.8613737979999314
+Stacking,Source only,3,4.09962477199997
+Bagging (decision trees),Source only,4,1.0542267440000614
+Random Forest,Source only,4,0.7138681459998679
+XGBoost,Source only,4,0.11882833200002096
+Logistic Regression (baseline),Source only,4,0.01397378599995136
+Simple average,Source only,4,0.8466702639998402
+Stacking,Source only,4,5.325311334999924
+Bagging (decision trees),Text + Source,0,175.1833858540001
+Random Forest,Text + Source,0,12.503425314000197
+XGBoost,Text + Source,0,39.97159184700013
+Logistic Regression (baseline),Text + Source,0,4.726703321000059
+Simple average,Text + Source,0,57.20172048200038
+Stacking,Text + Source,0,177.83691260900014
+Bagging (decision trees),Text + Source,1,181.53703623599995
+Random Forest,Text + Source,1,12.522631714999989
+XGBoost,Text + Source,1,39.713093539000056
+Logistic Regression (baseline),Text + Source,1,6.248566087999734
+Simple average,Text + Source,1,58.48429134199978
+Stacking,Text + Source,1,179.26271598999983
+Bagging (decision trees),Text + Source,2,184.5464691530001
+Random Forest,Text + Source,2,12.508185669999875
+XGBoost,Text + Source,2,39.37565029799998
+Logistic Regression (baseline),Text + Source,2,4.605943728000057
+Simple average,Text + Source,2,56.489779695999914
+Stacking,Text + Source,2,175.79459114300016
+Bagging (decision trees),Text + Source,3,192.56885322100015
+Random Forest,Text + Source,3,12.769378335000056
+XGBoost,Text + Source,3,39.32106278099991
+Logistic Regression (baseline),Text + Source,3,4.570417954999812
+Simple average,Text + Source,3,56.66085907099978
+Stacking,Text + Source,3,174.87366739399977
+Bagging (decision trees),Text + Source,4,177.59362809599997
+Random Forest,Text + Source,4,12.599542549000034
+XGBoost,Text + Source,4,38.52157129199986
+Logistic Regression (baseline),Text + Source,4,4.601306156999726
+Simple average,Text + Source,4,55.72241999799962
+Stacking,Text + Source,4,172.31344124499947

@@ -1,0 +1,10 @@
+question,model,compared with,difference,CI low,CI high,real difference?
+Stacking vs Bagging (decision trees),Stacking,"Bagging (decision trees), Text + Source",0.0195269722260637,0.011718280529693795,0.027541148892510404,yes
+Stacking vs Random Forest,Stacking,"Random Forest, Text + Source",0.018039683459245226,0.011425346497973988,0.02461135767829797,yes
+Stacking vs XGBoost,Stacking,"XGBoost, Text + Source",0.020803888788923586,0.013257213507515919,0.028616871607230632,yes
+Adding the website to the text,Bagging (decision trees),"Bagging (decision trees), Text only",0.0047157545821361335,0.0011192561154180186,0.008118511841733263,yes
+Adding the website to the text,Random Forest,"Random Forest, Text only",0.004532613297979382,-0.00022430332393415798,0.009417349368425107,no (CI includes 0)
+Adding the website to the text,XGBoost,"XGBoost, Text only",0.0026331231569072244,-0.004039404652902654,0.008873054667974884,no (CI includes 0)
+Adding the website to the text,Logistic Regression (baseline),"Logistic Regression (baseline), Text only",0.009492645248925236,0.0023869891479327806,0.01717997648533153,yes
+Adding the website to the text,Simple average,"Simple average, Text only",0.0073136377251823426,0.0024824763930056393,0.012260917953816713,yes
+Adding the website to the text,Stacking,"Stacking, Text only",0.008563056398438573,0.0034941756636661103,0.013887413642109816,yes

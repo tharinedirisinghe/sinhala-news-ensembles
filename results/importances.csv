@@ -1,0 +1,121 @@
+model,features,feature,importance
+Bagging (decision trees),Text + Source,[style] sentences,0.0528214148121113
+Bagging (decision trees),Text + Source,[style] chars,0.046839571573252
+Bagging (decision trees),Text + Source,[style] words,0.034486445752951
+Bagging (decision trees),Text + Source,[style] sinhala_share,0.0260730374085326
+Bagging (decision trees),Text + Source,[word] නිසා,0.0228188448646032
+Bagging (decision trees),Text + Source,[style] digit_share,0.0114709254445336
+Bagging (decision trees),Text + Source,[word] කීය,0.0104616617895406
+Bagging (decision trees),Text + Source,[style] unique_word_ratio,0.009450632554155
+Bagging (decision trees),Text + Source,[style] latin_share,0.0093220582701184
+Bagging (decision trees),Text + Source,[style] avg_word_len,0.0088595293482791
+Bagging (decision trees),Text + Source,[style] words_per_sentence,0.0081316514218146
+Bagging (decision trees),Text + Source,[source] deshaya.lk,0.0076004978366332
+Bagging (decision trees),Text + Source,[word] රෝගීන්,0.0066771094291645
+Bagging (decision trees),Text + Source,[word] මේ,0.0046745414093653
+Bagging (decision trees),Text + Source,[word] සහ,0.004551039855631
+Bagging (decision trees),Text + Source,[word] ඇති,0.0044421001524749
+Bagging (decision trees),Text + Source,[word] බවත්,0.0044302660584437
+Bagging (decision trees),Text + Source,[word] නැති,0.0043654796009138
+Bagging (decision trees),Text + Source,[word] නිවේදනය,0.0042762178778746
+Bagging (decision trees),Text + Source,[word] ද,0.004258846650031
+Random Forest,Text + Source,[style] chars,0.015044805132331
+Random Forest,Text + Source,[style] sinhala_share,0.012203729843519
+Random Forest,Text + Source,[style] words,0.0120854467198283
+Random Forest,Text + Source,[style] sentences,0.0100265703727222
+Random Forest,Text + Source,[style] digit_share,0.0091664054083971
+Random Forest,Text + Source,[style] unique_word_ratio,0.0081785219203063
+Random Forest,Text + Source,[word] නිසා,0.0061749309246235
+Random Forest,Text + Source,[style] avg_word_len,0.0056189985034243
+Random Forest,Text + Source,[word] වී,0.0052983463619369
+Random Forest,Text + Source,[word] නැති,0.0050594687960758
+Random Forest,Text + Source,[style] words_per_sentence,0.0048058665123533
+Random Forest,Text + Source,[word] කළ,0.0045934917404015
+Random Forest,Text + Source,[word] මේ,0.0044844455124752
+Random Forest,Text + Source,[word] බවත්,0.0044606137165348
+Random Forest,Text + Source,[word] දැන්,0.0041399921676965
+Random Forest,Text + Source,[style] latin_share,0.0039308811987113
+Random Forest,Text + Source,[source] deshaya.lk,0.0038652693930261
+Random Forest,Text + Source,[word] ගැන,0.0038262372146845
+Random Forest,Text + Source,[word] වන,0.003686041466041
+Random Forest,Text + Source,[word] කීය,0.0036681126774669
+XGBoost,Text + Source,[source] roar.media,0.0122319068759679
+XGBoost,Text + Source,[style] sentences,0.0087087377905845
+XGBoost,Text + Source,[word] නිසා,0.0076008760370314
+XGBoost,Text + Source,[word] ලංකාව,0.0066226269118487
+XGBoost,Text + Source,[word] ලංකාවේ,0.0060142138972878
+XGBoost,Text + Source,[word] පවසන්නේ,0.0058692111633718
+XGBoost,Text + Source,[word] කීය,0.0055770054459571
+XGBoost,Text + Source,[word] අය,0.0049652736634016
+XGBoost,Text + Source,[word] යුතුය,0.0048642591573297
+XGBoost,Text + Source,[word] ආරංචි,0.0047295051626861
+XGBoost,Text + Source,[word] සෞඛ්‍ය වෛද්‍ය,0.004315604455769
+XGBoost,Text + Source,[word] ආණ්ඩුවේ,0.0043105958029627
+XGBoost,Text + Source,[word] කාර්යාලයේ,0.0041330866515636
+XGBoost,Text + Source,[word] පරිදි,0.0040424223989248
+XGBoost,Text + Source,[word] ජනාධිපති ගෝඨාභය,0.0039544627070426
+XGBoost,Text + Source,[word] නිවේදනය,0.0039103720337152
+XGBoost,Text + Source,[word] තත්වයක්,0.0038464618846774
+XGBoost,Text + Source,[source] deshaya.lk,0.0037992456927895
+XGBoost,Text + Source,[style] words,0.0037051369436085
+XGBoost,Text + Source,[word] අදහස් දක්වමින්,0.0036714472807943
+Bagging (decision trees),Text only,[style] sentences,0.0529910413856333
+Bagging (decision trees),Text only,[style] chars,0.0479222730347036
+Bagging (decision trees),Text only,[style] words,0.0350326475300052
+Bagging (decision trees),Text only,[style] sinhala_share,0.0268509601122914
+Bagging (decision trees),Text only,[word] නිසා,0.0231346409740763
+Bagging (decision trees),Text only,[style] digit_share,0.0126290954718026
+Bagging (decision trees),Text only,[word] කීය,0.0118926401315664
+Bagging (decision trees),Text only,[style] unique_word_ratio,0.0101959540613263
+Bagging (decision trees),Text only,[style] latin_share,0.0101763661154595
+Bagging (decision trees),Text only,[style] avg_word_len,0.0090130762433055
+Bagging (decision trees),Text only,[style] words_per_sentence,0.007881183857562
+Bagging (decision trees),Text only,[word] රෝගීන්,0.006737809008304
+Bagging (decision trees),Text only,[word] ඇති,0.0046133478139714
+Bagging (decision trees),Text only,[word] සහ,0.0046038650302993
+Bagging (decision trees),Text only,[word] ද,0.0045921331108712
+Bagging (decision trees),Text only,[word] මේ,0.0045561795803414
+Bagging (decision trees),Text only,[word] බවත්,0.0045488372144428
+Bagging (decision trees),Text only,[word] නිවේදනය,0.0044958093268081
+Bagging (decision trees),Text only,[word] නැති,0.0043344602250942
+Bagging (decision trees),Text only,[word] කළ,0.0040349444897814
+Random Forest,Text only,[style] chars,0.0163739166807693
+Random Forest,Text only,[style] words,0.0134842715068417
+Random Forest,Text only,[style] sinhala_share,0.0128459800565186
+Random Forest,Text only,[style] digit_share,0.00944557213544
+Random Forest,Text only,[word] නිසා,0.0081258303960543
+Random Forest,Text only,[style] unique_word_ratio,0.0080169153930389
+Random Forest,Text only,[style] sentences,0.0076836082416914
+Random Forest,Text only,[style] avg_word_len,0.0061456618044303
+Random Forest,Text only,[style] words_per_sentence,0.0054825767465232
+Random Forest,Text only,[word] වී,0.0048238044859216
+Random Forest,Text only,[word] කළ,0.0044410360462917
+Random Forest,Text only,[word] මේ,0.0043938813149524
+Random Forest,Text only,[word] කීය,0.0043323886153299
+Random Forest,Text only,[word] බවත්,0.004205343276247
+Random Forest,Text only,[word] නැති,0.0041084945743846
+Random Forest,Text only,[word] වන,0.0040184264749497
+Random Forest,Text only,[word] යුතු,0.0039186342225105
+Random Forest,Text only,[style] latin_share,0.0038874315363094
+Random Forest,Text only,[word] ඇති,0.0036258372846506
+Random Forest,Text only,[word] බව,0.003385993028127
+XGBoost,Text only,[word] නැත,0.0087371747940778
+XGBoost,Text only,[word] කර තිබෙනවා,0.0084216808900237
+XGBoost,Text only,[style] questions,0.0073394956998527
+XGBoost,Text only,[word] නිසා,0.0065716868266463
+XGBoost,Text only,[style] sentences,0.0062384884804487
+XGBoost,Text only,[word] කොට,0.0053891716524958
+XGBoost,Text only,[word] කීය,0.0052317450754344
+XGBoost,Text only,[word] නොවැම්බර්,0.0049469098448753
+XGBoost,Text only,[word] බව යි,0.0047768279910087
+XGBoost,Text only,[word] චෝදනා,0.0046726334840059
+XGBoost,Text only,[word] අය,0.0045098816044628
+XGBoost,Text only,[word] සෞඛ්‍ය වෛද්‍ය,0.0044324118643999
+XGBoost,Text only,[word] මහජන සෞඛ්‍ය,0.0043317265808582
+XGBoost,Text only,[word] ක්‍රිකට්,0.0042261467315256
+XGBoost,Text only,[word] ඇතැම්,0.0039639729075133
+XGBoost,Text only,[word] නිවේදනය,0.0039323554374277
+XGBoost,Text only,[word] සාධක,0.0039122207090258
+XGBoost,Text only,[word] සංවිධානය,0.0038964303676038
+XGBoost,Text only,[word] ගමන්,0.0038491985760629
+XGBoost,Text only,[style] chars,0.0035764081403613
