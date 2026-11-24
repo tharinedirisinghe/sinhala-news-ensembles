@@ -1,0 +1,46 @@
+features,fold,model,weight
+Text only,0,Random Forest,2.0212718932587186
+Text only,0,XGBoost,0.9022638254721175
+Text only,0,Logistic Regression (baseline),3.01999574736553
+Text only,1,Random Forest,2.250617682045331
+Text only,1,XGBoost,1.1104743118851566
+Text only,1,Logistic Regression (baseline),2.6644947904536695
+Text only,2,Random Forest,1.988463366595821
+Text only,2,XGBoost,0.8399303090987644
+Text only,2,Logistic Regression (baseline),2.850352127038888
+Text only,3,Random Forest,1.9486868936285844
+Text only,3,XGBoost,1.0704158570184528
+Text only,3,Logistic Regression (baseline),2.8081832843469137
+Text only,4,Random Forest,2.3968748352703355
+Text only,4,XGBoost,0.9847115668690172
+Text only,4,Logistic Regression (baseline),2.5071428046402957
+Source only,0,Random Forest,1.5925678369074014
+Source only,0,XGBoost,1.5994877506870313
+Source only,0,Logistic Regression (baseline),1.4019818164772013
+Source only,1,Random Forest,1.4144880688221444
+Source only,1,XGBoost,1.4073375823439895
+Source only,1,Logistic Regression (baseline),1.2518644811233244
+Source only,2,Random Forest,1.4723178081066262
+Source only,2,XGBoost,1.4735862892364906
+Source only,2,Logistic Regression (baseline),1.3044490196523237
+Source only,3,Random Forest,1.4780053894022198
+Source only,3,XGBoost,1.4836218587863217
+Source only,3,Logistic Regression (baseline),1.2979187205158256
+Source only,4,Random Forest,1.4609256102993435
+Source only,4,XGBoost,1.4800709843722786
+Source only,4,Logistic Regression (baseline),1.2944474535743016
+Text + Source,0,Random Forest,1.882693943372488
+Text + Source,0,XGBoost,0.9675163189204883
+Text + Source,0,Logistic Regression (baseline),3.0921495856116192
+Text + Source,1,Random Forest,1.978179981189653
+Text + Source,1,XGBoost,1.0664137199497141
+Text + Source,1,Logistic Regression (baseline),2.7968368338145373
+Text + Source,2,Random Forest,1.8629932480367135
+Text + Source,2,XGBoost,0.7032027177710296
+Text + Source,2,Logistic Regression (baseline),3.0932135852180727
+Text + Source,3,Random Forest,1.992122827732783
+Text + Source,3,XGBoost,0.9765103985014318
+Text + Source,3,Logistic Regression (baseline),2.8087216032702984
+Text + Source,4,Random Forest,2.226374903405305
+Text + Source,4,XGBoost,0.9639838330284903
+Text + Source,4,Logistic Regression (baseline),2.62647970992368

@@ -1,0 +1,12 @@
+step,count,why
+Documents in Corpus.xlsx,3000,"Starting point (the repo says 3,576; only 3,000 are published)"
+Removed: PARTIAL and FALSE labels,110,"Too few to evaluate (83 PARTIAL, 27 FALSE)"
+Removed: exact duplicate texts,13,Same article twice
+Cleaned: links replaced by one 'link' token (occurrences),66,Long URLs became meaningless 'words'
+Cleaned: outlet self-mentions masked (occurrences),675,"Text named its own website (e.g. 'COLOMBO (News 1st)'), giving the source away"
+Cleaned: old-style spellings standardised (occurrences),2953,Same word was counted as two words; the old style is typical of a few websites
+Cleaned: invisible characters removed (occurrences),193,Same word with different hidden characters
+Removed: under 10 words,5,"Not articles: photo captions, a PDF link, a headline"
+"Kept, grouped: near-copies (similarity ≥ 0.8)",115,"Same story on several websites, 98% within 3 days; kept in the same fold"
+Kept: near-copy groups with different labels,15,Real annotation noise; not removed
+Final documents,2872,"1871 UNCERTAIN, 1001 CREDIBLE"
