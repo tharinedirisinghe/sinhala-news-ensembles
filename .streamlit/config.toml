@@ -1,0 +1,17 @@
+# Look of the dashboard. Restart Streamlit after changing this file.
+
+[client]
+toolbarMode = "viewer"          # hides the Deploy button in the recording
+
+[theme]
+base = "light"                  # same look whatever the Windows theme is
+primaryColor = "#262626"
+textColor = "#262626"
+grayTextColor = "#5f5f5f"
+borderColor = "#e2e2e2"
+baseFontSize = 16
+headingFontSizes = ["1.2rem", "1.75rem", "1.1rem", "1rem", "1rem", "0.9rem"]   # h1 = small page title
+headingFontWeights = [600, 650, 650, 600, 600, 600]
+metricValueFontSize = "1.8rem"
+paddingTop = "0.25rem"
+paddingBottom = "1rem"
